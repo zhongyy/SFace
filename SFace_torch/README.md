@@ -1,5 +1,5 @@
 # README
-This is the code of SFace based on `Pytorch`, we also have a [MxNet](https://github.com/zhongyy/SFace/tree/main/SFace_mxnet) version. 
+This is the code of SFace based on `PyTorch`, we also have a [MxNet](https://github.com/zhongyy/SFace/tree/main/SFace_mxnet) version. 
 
 ## Usage Instructions
 
